@@ -2,15 +2,29 @@
 
 Flutter Text Typing Animation Library
 
-## Getting Started
+## Usage
+Add Flutter Typist Dependency running below command in your project directory:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+```flutter
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+dart pub add flutter_typist
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```
+
+
+Add *FlutterTypist* widget to start utilizing:
+
+
+```dart
+Container(
+   color: Colors.white,
+   alignment: Alignment.center,
+   child: const FlutterTypist(
+   text: "Flutter Typist Demo!",
+   style: TextStyle(fontSize: 25, color: Colors.black),
+   ),
+  )
+);
+
+```
