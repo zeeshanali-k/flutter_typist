@@ -2,8 +2,11 @@
 
 Flutter Text Typing Animation Library
 
+<a href="https://pub.dev/packages/flutter_typist">Pub.dev Link</a>
+
 ## Usage
 Add Flutter Typist Dependency running below command in your project directory:
+
 
 
 ```flutter
