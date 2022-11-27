@@ -1,6 +1,6 @@
-# flutter_typist
+# Flutter Typist
 
-Flutter Text Typing Animation Library
+Flutter Text Typing Animation Library for Android, iOS, MacOS, Windows and Web.
 
 <a href="https://pub.dev/packages/flutter_typist">Pub.dev Link</a>
 
